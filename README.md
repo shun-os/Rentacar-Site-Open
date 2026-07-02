@@ -2,8 +2,13 @@
 
 レンタカーの予約から管理までを一貫して行うフルスタックWebアプリケーションです。
 
-home-admin-passのオープンサイトです
-パスワードと個人がわかるのもは書いてないのでご了承下さい
+「home-admin-pass」のオープン版リポジトリです。パスワードや個人が特定できる情報は含めていませんので、その点ご了承ください。
+## デモ
+
+- ユーザー向け予約サイト: https://kuma-rental.netlify.app/user/index.html
+- 英語版: https://kuma-rental.netlify.app/english/
+
+※ 管理者ダッシュボード（/admin/）は認証が必要です。
 
 ## 概要
 
